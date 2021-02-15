@@ -14,4 +14,5 @@ The repository is used to practice various git commands
 ## TODO
 * Merging
     * local and local
+    * remote and local
 * Rebasing
