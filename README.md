@@ -8,9 +8,10 @@ The repository is used to practice various git commands
 * Init
 * Merging 
     * local and remote
+    * local and local
 * Push
 * Pull
+* Reset
 
 ## TODO
-* Merging
 * Rebasing
