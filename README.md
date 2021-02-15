@@ -6,7 +6,12 @@ The repository is used to practice various git commands
 * Commit
 * Checkout -b
 * Init
+* Merging 
+    * local and remote
+* Push
+* Pull
 
 ## TODO
 * Merging
+    * local and local
 * Rebasing
