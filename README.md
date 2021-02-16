@@ -12,6 +12,8 @@ The repository is used to practice various git commands
 * Push
 * Pull
 * Reset
+* Reflog
 
 ## TODO
 * Rebasing
+* Cherry-Pick
