@@ -1,0 +1,100 @@
+1.	  97%	Black Panther (2018)	409
+2.	  97%	Mission: Impossible - Fallout (2018)	347
+3.	  95%	BlacKkKlansman (2018)	310
+4.	  95%	Call Me by Your Name (2018)	298
+5.	  95%	A Quiet Place (2018)	295
+6.	  100%	Paddington 2 (2018)	205
+7.	  94%	Incredibles 2 (2018)	300
+8.	  100%	Leave No Trace (2018)	185
+9.	  99%	Won't You Be My Neighbor? (2018)	182
+10.	  98%	Eighth Grade (2018)	195
+11.	  90%	I, Tonya (2018)	325
+12.	  96%	The Death of Stalin (2018)	215
+13.	  91%	Phantom Thread (2018)	289
+14.	  92%	Crazy Rich Asians (2018)	269
+15.	  88%	Ant-Man and the Wasp (2018)	326
+16.	  90%	Isle of Dogs (2018)	289
+17.	  87%	The Post (2018)	339
+18.	  100%	McQueen (2018)	106
+19.	  89%	Hereditary (2018)	288
+20.	  97%	The Rider (2018)	144
+21.	  94%	A Fantastic Woman (Una mujer fantástica) (2018)	194
+22.	  84%	Avengers: Infinity War (2018)	366
+23.	  100%	Summer 1993 (Estiu 1993) (2018)	76
+24.	  97%	Three Identical Strangers (2018)	123
+25.	  93%	Sorry to Bother You (2018)	193
+26.	  93%	First Reformed (2018)	190
+27.	  93%	Searching (2018)	182
+28.	  94%	Loveless (Nelyubov) (2018)	159
+29.	  100%	Minding the Gap (2018)	51
+30.	  100%	Wildlife (2018)	48
+31.	  100%	Oh Lucy! (2018)	47
+32.	  96%	Foxtrot (2018)	116
+33.	  92%	Love, Simon (2018)	187
+34.	  100%	Science Fair (2018)	44
+35.	  100%	Tea With the Dames (Nothing Like a Dame) (2018)	42
+36.	  100%	Night Comes On (2018)	42
+37.	  100%	Hannah Gadsby: Nanette (2018)	40
+38.	  95%	Beast (2018)	118
+39.	  98%	The Tale (2018)	62
+40.	  98%	Blaze (2018)	61
+41.	  94%	Mandy (2018)	130
+42.	  94%	RBG (2018)	129
+43.	  98%	In Between (2018)	56
+44.	  96%	Zama (2018)	90
+45.	  98%	Roma (2018)	54
+46.	  95%	A Star Is Born (2018)	116
+47.	  95%	The Endless (2018)	100
+48.	  97%	I Am Not a Witch (2018)	64
+49.	  87%	Annihilation (2018)	241
+50.	  95%	Custody (Jusqu'à la garde) (2018)	97
+51.	  98%	The Cakemaker (2018)	43
+52.	  92%	Lean on Pete (2018)	148
+53.	  88%	You Were Never Really Here (2018)	218
+54.	  82%	Deadpool 2 (2018)	323
+55.	  93%	Blindspotting (2018)	124
+56.	  96%	Filmworker (2018)	70
+57.	  95%	Sweet Country (2018)	81
+58.	  86%	Tully (2018)	233
+59.	  96%	To All the Boys I've Loved Before (2018)	48
+60.	  93%	Revenge (2018)	100
+61.	  96%	24 Frames (2018)	45
+62.	  95%	Western (2018)	59
+63.	  91%	Hearts Beat Loud (2018)	126
+64.	  89%	American Animals (2018)	163
+65.	  93%	Journey's End (2018)	84
+66.	  95%	Robin Williams: Come Inside My Mind (2018)	42
+67.	  94%	The Guardians (Les Gardiennes) (2018)	51
+68.	  94%	Widows (2018)	47
+69.	  82%	Molly's Game (2018)	256
+70.	  93%	Nico, 1988 (2018)	60
+71.	  93%	Cold War (Zimna wojna) (2018)	57
+72.	  93%	If Beale Street Could Talk (2018)	57
+73.	  93%	A Prayer Before Dawn (2018)	54
+74.	  90%	Teen Titans Go! To the Movies (2018)	105
+75.	  88%	Woy (2018)	139
+76.	  91%	Support the Girls (2018)	81
+77.	  84%	Game Night (2018)	201
+78.	  87%	Upgrade (2018)	146
+79.	  87%	The Miseducation of Cameron Post (2018)	141
+80.	  91%	On Body and Soul (A Teströl és Lélekröl) (2018)	67
+81.	  87%	Thoroughbreds (2018)	136
+82.	  89%	The Insult (L'insulte) (2018)	97
+83.	  86%	The Wife (2018)	153
+84.	  91%	Climax (2018)	43
+85.	  84%	A Simple Favor (2018)	166
+86.	  90%	Scotty and the Secret History of Hollywood (2018)	59
+87.	  83%	Blockers (2018)	180
+88.	  90%	We the Animals (2018)	67
+89.	  85%	Disobedience (2018)	138
+90.	  88%	Colette (2018)	82
+91.	  89%	The Old Man & the Gun (2018)	62
+92.	  90%	Claire's Camera (La caméra de Claire) (2018)	40
+93.	  88%	Skate Kitchen (2018)	75
+94.	  80%	Mamma Mia! Here We Go Again (2018)	216
+95.	  72%	Ready Player One (2018)	358
+96.	  88%	First Man (2018)	73
+97.	  70%	Solo: A Star Wars Story (2018)	389
+98.	  89%	Set It Up (2018)	46
+99.	  85%	Let the Sunshine In (Un beau soleil intérieur) (2018)	117
+100.	  89%	Boom for Real: The Late Teenage Years of Jean-Michel Basquiat (2018)	44
