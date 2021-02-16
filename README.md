@@ -13,7 +13,7 @@ The repository is used to practice various git commands
 * Pull
 * Reset
 * Reflog
+* Cherry-Pick
 
 ## TODO
 * Rebasing
-* Cherry-Pick
