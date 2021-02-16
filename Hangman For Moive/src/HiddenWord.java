@@ -16,17 +16,19 @@ public class HiddenWord {
     }
     boolean find(char x) {
         boolean have = false;
-        boolean wonornot = true;
+        boolean wonOrNot = true;
         for (int i = 0; i < letters; i++) {
             if (HiddenWord.toLowerCase().charAt(i) == x) {
                 Guessed[i] = HiddenWord.charAt(i);
                 have = true;
             }
             if (Guessed[i] == '_') {
-                wonornot = false;
+                wonOrNot = false;
             }
         }
-        if (wonornot) found = true;
+        if (wonOrNot) found = true;
         return have;
     }
+
+    int getLetters() {return this.letters;}
 }

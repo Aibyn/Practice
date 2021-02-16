@@ -6,25 +6,26 @@ public class Game {
 
     public static void Input(String[] Movies) throws Exception {
         File file = new File("Movies.txt");
-        Scanner scanner = new Scanner(file);
-        int l = 0;
-        while (scanner.hasNextLine()) {
-            String s = scanner.nextLine();
-            boolean start = false;
-            String Name = "";
-            for (int i = 0; i < s.length(); i++) {
-                if (s.charAt(i) == ' ' && s.charAt(i + 1) == '(') {
-                    start = false;
+        try(Scanner scanner = new Scanner(file);) {
+            int l = 0;
+            while (scanner.hasNextLine()) {
+                String s = scanner.nextLine();
+                boolean start = false;
+                String Name = "";
+                for (int i = 0; i < s.length(); i++) {
+                    if (s.charAt(i) == '%') {
+                        start = true;
+                        i++;
+                    }
+                    if (start) {
+                        Name += s.charAt(i);
+                    }
+                    if (s.charAt(i) == ' ' && s.charAt(i + 1) == '(') {
+                        start = false;
+                    }
                 }
-                if (start) {
-                    Name += s.charAt(i);
-                }
-                if (s.charAt(i) == '%') {
-                    start = true;
-                    i++;
-                }
+                Movies[l++] = Name;
             }
-            Movies[l++] = Name;
         }
     }
 
