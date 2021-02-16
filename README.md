@@ -10,6 +10,12 @@ The repository is used to practice various git commands
     * local and remote
 * Push
 * Pull
+<<<<<<< HEAD
+=======
+* Reset
+* Reflog
+* Cherry-Pick
+>>>>>>> 8b55c24 (Add some completed items)
 
 ## TODO
 * Merging
