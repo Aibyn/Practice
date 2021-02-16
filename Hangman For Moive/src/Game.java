@@ -22,7 +22,8 @@ public class Game {
                     if (start) {
                         Name += s.charAt(i);
                     }
-                    if (s.charAt(i) == ' '  && i < s.length() - 1&& s.charAt(i + 1) == '(') {
+                    if (s.charAt(i) == ' ' && 
+                        i < s.length() - 1 && s.charAt(i + 1) == '(') {
                         start = false;
                     }
                 }
@@ -60,7 +61,7 @@ public class Game {
                 System.out.println("Congratulations you WON THE GAME");
             } else {
                 System.out.println("YOU LOSE");
-                System.out.println("The Movie name was: " + word.getHiddenWord());
+                System.out.println("The movie name was: " + word.getHiddenWord());
             }
        }
 
