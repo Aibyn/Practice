@@ -8,15 +8,13 @@ The repository is used to practice various git commands
 * Init
 * Merging 
     * local and remote
+    * local and local
 * Push
 * Pull
-<<<<<<< HEAD
-=======
 * Reset
 * Reflog
 * Cherry-Pick
->>>>>>> 8b55c24 (Add some completed items)
+
 
 ## TODO
-* Merging
 * Rebasing
