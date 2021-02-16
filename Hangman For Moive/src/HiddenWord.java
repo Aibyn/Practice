@@ -1,12 +1,14 @@
+import java.util.Arrays;
+
 public class HiddenWord {
-    char[] Guessed;
-    String HiddenWord;
-    boolean found;
-    int letters;
+    private char[] Guessed;
+    private String HiddenWord;
+    private boolean found;
+    private int letters;
     HiddenWord(String word) {
         letters = word.length();
         Guessed = word.toLowerCase().toCharArray();
-        boolean found = false;
+        found = false;
         HiddenWord = word;
         for (int i = 0; i < letters; i++) {
             if ((Guessed[i] >= 'a' && Guessed[i] <= 'z')) {
@@ -29,6 +31,8 @@ public class HiddenWord {
         if (wonOrNot) found = true;
         return have;
     }
-
+    String getGuessed() {return String.valueOf(this.Guessed);}
     int getLetters() {return this.letters;}
+    boolean isFound() {return this.found;}
+	public String getHiddenWord() {return this.HiddenWord;}
 }
