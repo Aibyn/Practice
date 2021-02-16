@@ -1,4 +1,5 @@
 
+import java.util.Random;
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
@@ -41,7 +42,8 @@ public class Game {
         }
         Scanner scan = new Scanner(System.in);
         while (wishToContinue(scan)) {
-            int index = (int) (Math.random() * 100);
+            Random rand = new Random();
+            int index = rand.nextInt(100);
             System.out.println("The game starts:");
             HiddenWord word = new HiddenWord(Movies[index]);
             System.out.println("The movie title have " + word.getLetters() + " letters");
